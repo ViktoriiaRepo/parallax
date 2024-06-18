@@ -3,7 +3,6 @@
 let dolphin1 = document.getElementById('dolphin1');
 let dolphin2 = document.getElementById('dolphin2');
 let sun = document.getElementById('sun');
-// let btn = document.getElementById("btn");
 let sea = document.getElementById('sea');
 let header = document.getElementById('header');
 let titles = document.querySelector('.titles');
